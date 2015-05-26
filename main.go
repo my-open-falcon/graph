@@ -57,7 +57,7 @@ func main() {
 	}
 
 	if *versionGit {
-		fmt.Println(g.VERSION, g.COMMIT)
+		fmt.Println(g.VERSION)
 		os.Exit(0)
 	}
 
