@@ -3,7 +3,7 @@ package db
 import (
 	"database/sql"
 	_ "github.com/go-sql-driver/mysql"
-	"github.com/open-falcon/graph/g"
+	"github.com/my-open-falcon/graph/g"
 	"log"
 	"sync"
 )

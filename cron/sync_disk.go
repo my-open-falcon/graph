@@ -4,9 +4,9 @@ import (
 	"log"
 	"time"
 
-	"github.com/open-falcon/graph/g"
-	"github.com/open-falcon/graph/rrdtool"
-	"github.com/open-falcon/graph/store"
+	"github.com/my-open-falcon/graph/g"
+	"github.com/my-open-falcon/graph/rrdtool"
+	"github.com/my-open-falcon/graph/store"
 )
 
 var (

@@ -117,7 +117,7 @@ function show_version() {
 function test() {
     pkg=$1
     if [ "X$pkg" != "X" ]; then
-        go test -v "github.com/open-falcon/$module/$pkg"
+        go test -v "github.com/my-open-falcon/$module/$pkg"
     else
         echo "test: bad args"
     fi

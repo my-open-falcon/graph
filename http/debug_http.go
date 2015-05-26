@@ -2,11 +2,11 @@ package http
 
 import (
 	"fmt"
-	cmodel "github.com/open-falcon/common/model"
-	cutils "github.com/open-falcon/common/utils"
-	"github.com/open-falcon/graph/api"
-	"github.com/open-falcon/graph/g"
-	"github.com/open-falcon/graph/store"
+	cmodel "github.com/my-open-falcon/common/model"
+	cutils "github.com/my-open-falcon/common/utils"
+	"github.com/my-open-falcon/graph/api"
+	"github.com/my-open-falcon/graph/g"
+	"github.com/my-open-falcon/graph/store"
 	"net/http"
 	"strconv"
 	"strings"

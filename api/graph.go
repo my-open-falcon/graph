@@ -5,13 +5,13 @@ import (
 	"log"
 	"math"
 
-	cmodel "github.com/open-falcon/common/model"
-	cutils "github.com/open-falcon/common/utils"
-	"github.com/open-falcon/graph/g"
-	"github.com/open-falcon/graph/index"
-	"github.com/open-falcon/graph/proc"
-	"github.com/open-falcon/graph/rrdtool"
-	"github.com/open-falcon/graph/store"
+	cmodel "github.com/my-open-falcon/common/model"
+	cutils "github.com/my-open-falcon/common/utils"
+	"github.com/my-open-falcon/graph/g"
+	"github.com/my-open-falcon/graph/index"
+	"github.com/my-open-falcon/graph/proc"
+	"github.com/my-open-falcon/graph/rrdtool"
+	"github.com/my-open-falcon/graph/store"
 	//"sync/atomic"
 )
 

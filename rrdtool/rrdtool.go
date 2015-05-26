@@ -8,10 +8,10 @@ import (
 	"sync"
 	"time"
 
-	cmodel "github.com/open-falcon/common/model"
-	"github.com/open-falcon/graph/g"
-	"github.com/open-falcon/graph/store"
-	"github.com/open-falcon/rrdlite"
+	cmodel "github.com/my-open-falcon/common/model"
+	"github.com/my-open-falcon/graph/g"
+	"github.com/my-open-falcon/graph/store"
+	"github.com/my-open-falcon/rrdlite"
 	"github.com/toolkits/file"
 	"github.com/toolkits/logger"
 )

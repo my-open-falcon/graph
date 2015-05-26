@@ -2,7 +2,7 @@ package http
 
 import (
 	"fmt"
-	"github.com/open-falcon/graph/index"
+	"github.com/my-open-falcon/graph/index"
 	"net/http"
 	"strconv"
 	"strings"

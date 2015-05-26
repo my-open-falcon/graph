@@ -8,13 +8,13 @@ import (
 	"os/signal"
 	"syscall"
 
-	"github.com/open-falcon/graph/api"
-	"github.com/open-falcon/graph/cron"
-	"github.com/open-falcon/graph/db"
-	"github.com/open-falcon/graph/g"
-	"github.com/open-falcon/graph/http"
-	"github.com/open-falcon/graph/index"
-	"github.com/open-falcon/graph/rrdtool"
+	"github.com/my-open-falcon/graph/api"
+	"github.com/my-open-falcon/graph/cron"
+	"github.com/my-open-falcon/graph/db"
+	"github.com/my-open-falcon/graph/g"
+	"github.com/my-open-falcon/graph/http"
+	"github.com/my-open-falcon/graph/index"
+	"github.com/my-open-falcon/graph/rrdtool"
 	"github.com/toolkits/logger"
 )
 

@@ -15,9 +15,9 @@ graph所做的事情，就是把用户每次push上来的数据，进行采样�
 ```bash
 # set $GOPATH and $GOROOT
 
-mkdir -p $GOPATH/src/github.com/open-falcon
-cd $GOPATH/src/github.com/open-falcon
-git clone https://github.com/open-falcon/graph.git
+mkdir -p $GOPATH/src/github.com/my-open-falcon
+cd $GOPATH/src/github.com/my-open-falcon
+git clone https://github.com/my-open-falcon/graph.git
 
 cd graph
 go get ./...
